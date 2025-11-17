@@ -1,3 +1,5 @@
 #HELLO WORLD!
 
 I study in NETOLOGIA
+
+17.11.2025
